@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá! Eu sou o Yago 👋
 
-<!--
-**Y4GoD957/Y4GoD957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalho em: Sou desenvolvedor full-stack e atuo como estagiário no Supremo Tribunal Federal. Minhas responsabilidades incluem o desenvolvimento de soluções para aplicações internas, correção de bugs e aprimoramento de funcionalidades para otimizar a experiência dos usuários e a eficiência dos sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estou aprendendo sobre: Atualmente estou aprofundando meus conhecimentos no framework Vue.js e explorando novas ferramentas de estilização no front-end. No back-end, busco aprimorar constantemente minhas habilidades com a linguagem Java e tecnologias associadas para desenvolver soluções mais eficientes e escaláveis.
+
+- 🎯 Áreas de interesse: Tenho grande interesse em desenvolvimento full-stack, arquitetura de software e otimização de performance, além de acompanhar as inovações tecnológicas e tendências do setor de TI.
+
+- 🏆 Formação acadêmica: Sou formado em Técnico de Informática e Inglês e atualmente estou concluindo o curso superior de Engenharia da Computação.
+
+- ⚡ Curiosidade sobre mim: Sou apaixonado por tecnologia e inovação, sempre buscando conhecimento sobre novas tendências e explorando desafios além do que me é solicitado.
+
+- 🎮 Hobbies: Gosto de explorar novas tecnologias, acompanhar o mundo dos eSports, jogar videogames e ler sobre inteligência artificial e inovação.
+
