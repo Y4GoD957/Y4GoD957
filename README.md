@@ -14,7 +14,7 @@
 - 🎮 Hobbies: Gosto de explorar novas tecnologias, acompanhar o mundo dos eSports, jogar videogames e ler sobre inteligência artificial e inovação.
 
 <div style="display: inline-block; text-align: center;">
-  <img alt="Yago-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Yago-Js" margin-top="20px" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Yago-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="Yago-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img alt="Yago-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -22,5 +22,8 @@
   <img alt="Yago-Vue" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img alt="Yago-Angular" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img alt="Yago-Node" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  
-</div>
+  <img align="right" alt="Yago-Node" height="108" width="199" src="https://cdn.discordapp.com/attachments/903692429142675526/1354211732523843725/strawhats-one-piece.gif?ex=67e47775&is=67e325f5&hm=94c4bf7554394a8ffb513630ea62548240448a789383d1f540c1af7e461d05a3&">
+</div><br>
+
+## 
+
