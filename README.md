@@ -22,7 +22,6 @@
   <img alt="Yago-Vue" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img alt="Yago-Angular" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img alt="Yago-Node" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Yago-Node" height="108" width="199" src="https://cdn.discordapp.com/attachments/903692429142675526/1354211732523843725/strawhats-one-piece.gif?ex=67e47775&is=67e325f5&hm=94c4bf7554394a8ffb513630ea62548240448a789383d1f540c1af7e461d05a3&">
 </div><br>
 
 ## 
