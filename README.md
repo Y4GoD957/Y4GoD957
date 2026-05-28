@@ -106,11 +106,6 @@ Experiência em ambiente institucional, com participação em rotinas de desenvo
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y4GoD957&theme=github_dark" alt="Resumo do perfil GitHub de Yago Santos" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Y4GoD957&theme=github_dark" alt="Repositórios por linguagem" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Y4GoD957&theme=github_dark" alt="Linguagens por commit" />
-</p>
-
 <br/>
 
 ---
