@@ -8,9 +8,9 @@
 
 # Yago Santos
 
-**Full Stack Developer &nbsp;·&nbsp; Engenharia da Computação &nbsp;·&nbsp; Supremo Tribunal Federal**
+**Desenvolvedor Frontend &nbsp;·&nbsp; Engenharia da Computação &nbsp;·&nbsp; Gerente Max**
 
-*Construindo software moderno, escalável e de alta qualidade.*
+*Construindo interfaces modernas, escaláveis e de alta qualidade.*
 
 </div>
 
@@ -20,9 +20,9 @@
 
 ## Sobre mim
 
-Sou desenvolvedor full stack com foco em construir aplicações robustas, bem arquitetadas e de alto desempenho. Curso Engenharia da Computação e atuo como estagiário no **Supremo Tribunal Federal**, desenvolvendo e mantendo sistemas internos com ênfase em qualidade de código, segurança e performance.
+Sou estudante de Engenharia da Computação e desenvolvedor Frontend, atualmente atuando na **Gerente Max** no desenvolvimento de uma plataforma ERP. Tenho experiência com React, TypeScript, Azure DevOps e Vanilla Extract CSS, além de experiência anterior no **Supremo Tribunal Federal (STF)**, onde atuei de agosto de 2023 a novembro de 2025.
 
-Tenho interesse profundo em arquitetura de software, inteligência artificial e nas boas práticas que tornam sistemas mais escaláveis e sustentáveis a longo prazo.
+Tenho interesse por desenvolvimento web, arquitetura de software, performance, qualidade de interface e construção de produtos digitais escaláveis.
 
 <br/>
 
@@ -34,9 +34,9 @@ Tenho interesse profundo em arquitetura de software, inteligência artificial e 
 
 <div align="center">
 
-| 🏗 Arquitetura de Software | 🤖 Aplicações de IA | ⚡ Web Moderno |
+| ⚡ Desenvolvimento Frontend | 🏗 Arquitetura de Software | 🎨 Qualidade de Interface |
 |:---:|:---:|:---:|
-| Padrões de projeto, design de sistemas e construção de aplicações escaláveis | Automações inteligentes e integração com modelos de linguagem | Aplicações web rápidas, modernas e com experiência de uso refinada |
+| Interfaces modernas e performáticas com React, TypeScript e boas práticas de CSS | Padrões de projeto e construção de plataformas web escaláveis | Componentes consistentes, responsivos e bem estruturados para produtos digitais |
 
 </div>
 
@@ -69,7 +69,7 @@ Tenho interesse profundo em arquitetura de software, inteligência artificial e 
 ### Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,azuredevops" alt="Git, GitHub, VS Code, Azure DevOps" />
 </p>
 
 <br/>
@@ -80,11 +80,19 @@ Tenho interesse profundo em arquitetura de software, inteligência artificial e 
 
 <br/>
 
-**Estagiário de Desenvolvimento de Sistemas** &nbsp;·&nbsp; *2024 – Presente*
+### Desenvolvedor Frontend — Gerente Max
 
-Supremo Tribunal Federal &nbsp;·&nbsp; Brasília, DF
+**Fevereiro de 2026 — Atual**
 
-Desenvolvimento e manutenção de aplicações internas com foco em qualidade de código, segurança, performance e evolução contínua dos sistemas. Atuação full stack com Vue.js, Java e Spring Boot.
+Atuação no desenvolvimento de uma plataforma ERP, utilizando React, TypeScript, Azure DevOps e Vanilla Extract CSS, com foco em interfaces modernas, organização de código e experiência do usuário.
+
+<br/>
+
+### Supremo Tribunal Federal (STF)
+
+**Agosto de 2023 — Novembro de 2025**
+
+Experiência em ambiente institucional, com participação em rotinas de desenvolvimento, manutenção e organização de sistemas, reforçando práticas de qualidade, responsabilidade e estruturação técnica.
 
 <br/>
 
