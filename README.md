@@ -69,7 +69,7 @@ Tenho interesse por desenvolvimento web, arquitetura de software, performance, q
 ### Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,azuredevops" alt="Git, GitHub, VS Code, Azure DevOps" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,azure,gitlab" alt="Git, GitHub, VS Code, Azure DevOps, GitLab" />
 </p>
 
 <br/>
