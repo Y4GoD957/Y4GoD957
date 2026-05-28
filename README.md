@@ -48,28 +48,36 @@ Tenho interesse profundo em arquitetura de software, inteligência artificial e 
 
 <br/>
 
-**Frontend**
+### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=42B883)
-![Angular](https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=DD0031)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=fff" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff" alt="Angular" />
+</p>
 
-**Backend**
+### Backend
 
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" />
+</p>
 
-**Banco de Dados**
+### Banco de Dados
 
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=fff" alt="MySQL" />
+</p>
 
-**Ferramentas**
+### Ferramentas
 
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" alt="VS Code" />
+</p>
 
 <br/>
 
@@ -93,13 +101,10 @@ Desenvolvimento e manutenção de aplicações internas com foco em qualidade de
 
 <br/>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Y4GoD957&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y4GoD957&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6" />
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Y4GoD957&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y4GoD957&layout=compact&theme=github_dark&hide_border=true&border_radius=12" alt="Top Languages" />
+</p>
 
 <br/>
 
@@ -107,16 +112,16 @@ Desenvolvimento e manutenção de aplicações internas com foco em qualidade de
 
 ## Contribution Arcade
 
-> Transformando consistência em código — um commit por vez.
+<p align="center">
+  <strong>Transformando consistência em código — um commit por vez.</strong>
+</p>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Y4GoD957/Y4GoD957/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Y4GoD957/Y4GoD957/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Y4GoD957/Y4GoD957/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Y4GoD957/Y4GoD957/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Y4GoD957/Y4GoD957/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Y4GoD957/Y4GoD957/output/pacman-contribution-graph.svg" width="100%" />
+  </picture>
+</p>
 
 <br/>
