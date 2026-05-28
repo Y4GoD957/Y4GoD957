@@ -8,7 +8,7 @@
 
 # Yago Santos
 
-**Desenvolvedor Frontend &nbsp;·&nbsp; Engenharia da Computação &nbsp;·&nbsp; Gerente Max**
+**Desenvolvedor Frontend &nbsp;·&nbsp; Ciência da Computação &nbsp;·&nbsp; Gerente Max**
 
 *Construindo interfaces modernas, escaláveis e de alta qualidade.*
 
@@ -20,7 +20,7 @@
 
 ## Sobre mim
 
-Sou estudante de Engenharia da Computação e desenvolvedor Frontend, atualmente atuando na **Gerente Max** no desenvolvimento de uma plataforma ERP. Tenho experiência com React, TypeScript, Azure DevOps e Vanilla Extract CSS, além de experiência anterior no **Supremo Tribunal Federal (STF)**, onde atuei de agosto de 2023 a novembro de 2025.
+Sou estudante de Ciência da Computação e desenvolvedor Frontend, atualmente atuando na **Gerente Max** no desenvolvimento de uma plataforma ERP. Tenho experiência com React, TypeScript, Azure DevOps e Vanilla Extract CSS, além de experiência anterior no **Supremo Tribunal Federal (STF)**, onde atuei de agosto de 2023 a novembro de 2025.
 
 Tenho interesse por desenvolvimento web, arquitetura de software, performance, qualidade de interface e construção de produtos digitais escaláveis.
 
