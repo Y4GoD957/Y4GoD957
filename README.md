@@ -51,32 +51,25 @@ Tenho interesse profundo em arquitetura de software, inteligência artificial e 
 ### Frontend
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=FFFFFF" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,angular" alt="JavaScript, TypeScript, Vue.js, Angular" />
 </p>
 
 ### Backend
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs" alt="Java, Spring Boot, Node.js" />
 </p>
 
 ### Banco de Dados
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
 </p>
 
 ### Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
 </p>
 
 <br/>
