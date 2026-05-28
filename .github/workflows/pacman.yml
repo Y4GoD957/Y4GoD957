@@ -23,9 +23,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           games: pacman
 
-      - name: Remove month labels from SVGs
+      - name: Improve month label readability
         run: |
-          sed -i 's/<text[^>]*y="10"[^>]*>[^<]*<\/text>//g' dist/*.svg
+          sed -i '/y="10"/s/font-size="10"/font-family="Arial, Helvetica, sans-serif" font-size="13"/g' dist/*.svg
 
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

@@ -51,19 +51,19 @@ Tenho interesse profundo em arquitetura de software, inteligência artificial e 
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,angular" alt="JavaScript, TypeScript, Vue.js, Angular" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,vue,angular,tailwind,shadcn" alt="JavaScript, TypeScript, React, Next.js, Vite, Vue.js, Angular, Tailwind CSS, shadcn/ui" />
 </p>
 
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs" alt="Java, Spring Boot, Node.js" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs" alt="Java, Spring Boot, Node.js, NestJS" />
 </p>
 
 ### Banco de Dados
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" alt="MySQL, PostgreSQL, Supabase" />
 </p>
 
 ### Ferramentas
