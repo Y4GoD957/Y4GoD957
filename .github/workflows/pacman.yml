@@ -11,14 +11,18 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: pacman-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
       - name: Generate Pac-Man contribution graph SVGs
-        uses: abozanona/pacman-contribution-graph@v5.0.0
+        uses: abozanona/pacman-contribution-graph@v5.3.2
         with:
           github_user_name: ${{ github.repository_owner }}
           games: pacman
